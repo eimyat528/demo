@@ -1,7 +1,7 @@
 
 (function (factory) {
     'use strict';
-     asdfghkl
+     sdf
     if (typeof define === 'function' && define.amd) {
         // AMD is used - Register as an anonymous module.
         define(['jquery', 'moment'], factory);
