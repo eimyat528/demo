@@ -35,6 +35,7 @@
 /*global moment:false */
 (function (factory) {
     'use strict';
+    ok
     if (typeof define === 'function' && define.amd) {
         // AMD is used - Register as an anonymous module.
         define(['jquery', 'moment'], factory);
